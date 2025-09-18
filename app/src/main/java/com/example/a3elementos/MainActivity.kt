@@ -64,6 +64,7 @@ fun ExampleScreen(modifier: Modifier = Modifier) {
             }
         }
 
+
         Spacer(modifier = Modifier.height(24.dp))
 
         //Botón para diálogo
